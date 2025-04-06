@@ -14,3 +14,7 @@ this is a good example of [my code](https://gist.github.com/AHMED1276554/5d86a1a
 
 ### colab Example 
 this is the [notebook](https://colab.research.google.com/drive/1xUgSYDuzRrpxEcitbbgWFfXKyPQuyPqd?usp=sharing)
+
+
+### image
+![image](https://github.com/user-attachments/assets/1edfc2e9-b588-4e4f-8114-f895ca7e3709)
